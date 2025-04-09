@@ -2,6 +2,7 @@
 {
     static void Main(string[] args)
     {
+        //uso de metodos de impresion
 
         Console.Write("Hola, ¿cual es tu nombre?: ");
         string nombre = Console.ReadLine();
